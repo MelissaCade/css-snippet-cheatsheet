@@ -8,7 +8,8 @@ I am creating a library of useful or interesting code snippets in CSS. I want to
 things up later without starting from scratch. I also want to practice using the CSS codes, so
 the page is styled quite a bit.
 
-(./assets/images/screenshot-2024-02-26.png)
+![screenshot-2024-02-26](https://github.com/MelissaCade/css-snippet-cheatsheet/assets/160056156/856cd4e7-9ab4-457f-8b34-c2b783ed5588)
+
 
 ## Installation
 
